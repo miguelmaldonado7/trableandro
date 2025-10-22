@@ -257,7 +257,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Teste Leandro</h1>
+            <h1>Teste Leandro😂</h1>
             <p>Soluções tecnológicas inovadoras para transformar seu negócio e potencializar seus resultados</p>
             <a href="contato.php" class="btn">Solicitar Consultoria</a>
         </div>
